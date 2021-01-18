@@ -1,0 +1,27 @@
+{
+  "name": "boop",
+  "version": "1.0.0",
+  "description": "Boop Bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo lol",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuckyGit/boop.git"
+  },
+  "keywords": [
+    "boop"
+  ],
+  "author": "DuckyHD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DuckyGit/boop/issues"
+  },
+  "homepage": "https://github.com/DuckyGit/boop#readme"
+}
